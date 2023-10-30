@@ -113,15 +113,12 @@ El repositorio esta dividido en tres categorías:
 * Cuenta con NordVPN la cual se debe configurar con las credenciales del investigador y a disfrutar de una navegación anónima.
 * Onionshare
   
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/90745412-95fe-4b1d-8e9e-0744c0a3cf13)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/da888f29-6e0d-416e-bbae-bc01435472ab)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/bc0f6459-e458-48bc-ac42-3a7773a83b75)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/1d957a1e-69da-4961-a52c-502f6ba2080f)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/54561722-0b9d-4838-94be-3641278fe246)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/bad5c60d-76c9-4bef-9eda-91b0a790838c)
 
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/f69f31df-b09f-4672-8613-1f99c0763f2f)
-
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/22978856-99ba-4f61-b616-7201c3c39894)
-
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/82489745-8028-4cc4-b2bc-b82f9551db40)
-
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/a44d5a48-9fec-4486-ab19-d52eed8003f2)
 
 # Funcionalidad
 Camaleón cuenta con un script de tipo launcher, que permite acceder a un menú que tiene listadas todas las herramientas por categorías para poder
