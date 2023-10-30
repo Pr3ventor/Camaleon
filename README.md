@@ -114,7 +114,7 @@ El repositorio esta dividido en tres categorías:
 * Onionshare
   
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/da888f29-6e0d-416e-bbae-bc01435472ab)
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/bc0f6459-e458-48bc-ac42-3a7773a83b75)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/c8d88e0b-7250-4cf4-bf56-e6d14aa07538)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/1d957a1e-69da-4961-a52c-502f6ba2080f)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/54561722-0b9d-4838-94be-3641278fe246)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/bad5c60d-76c9-4bef-9eda-91b0a790838c)
