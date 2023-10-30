@@ -1,4 +1,4 @@
-# Camaleon
+# Camaleón
 Máquina virtual para investigaciones en fuentes abiertas OSINT
 
 Camaleón es una iniciativa que busca diversificar las alternativas, en cuanto a maquinas virtuales en español se refiere, para investigaciones en fuentes abiertas.
@@ -101,8 +101,7 @@ El repositorio esta dividido en tres categorías:
   - Filtraciones por Emails
   - Entre muchos otros
   
-  ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/b4ed165d-18ed-4837-9e4a-083956eb3e92)
-
+  ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/863b2b9b-e264-4ae7-bf02-7e84c13b7617)
 
 
 # Privacidad y anonimato
@@ -124,7 +123,7 @@ El repositorio esta dividido en tres categorías:
 Camaleón cuenta con un script de tipo launcher, que permite acceder a un menú que tiene listadas todas las herramientas por categorías para poder
 evaluar y decidir según corresponda.
 
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/88275da7-da24-4951-a78c-e1ccffc2a984)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/74739329-d0b4-43d6-8956-fe9a38711d64)
 
 
 # Versiones
@@ -149,8 +148,7 @@ versión mínima para casos extremos.
   - NordVPN
   - Onionshare
 
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/3171dd73-773a-4b75-a2d6-3c952bec876a)
-
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/2975178f-6b7e-406b-b11f-ca74d4cd1da1)
 
  
 * **Versión minimal**
@@ -169,7 +167,7 @@ Camaleón  minimal esta disponible en su versión server o modo consola, es deic
   - Bajo consumo de recursos
   - Facilidad de uso mediante conexión retoma ssh
  
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/a322fc3d-e35c-4334-bf76-0f6cc734c9eb)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/d9a16853-95a7-4488-a50b-5505e2370fb5)
 
 
 # Descarga y uso
