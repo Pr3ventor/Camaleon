@@ -1,4 +1,4 @@
-# Camaleon_
+# Camaleon
 Máquina virtual para investigaciones en fuentes abiertas OSINT
 
 Camaleón es una iniciativa que busca diversificar las alternativas, en cuanto a maquinas virtuales en español se refiere, para investigaciones en fuentes abiertas.
