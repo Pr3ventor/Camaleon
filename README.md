@@ -3,7 +3,8 @@ Máquina virtual para investigaciones en fuentes abiertas OSINT
 
 Camaleón es una iniciativa que busca diversificar las alternativas, en cuanto a maquinas virtuales en español se refiere, para investigaciones en fuentes abiertas.
 
-![BG_v2](https://github.com/Pr3ventor/Camaleon/assets/52586785/41d98f02-84ab-446f-9ee8-cb5f8e528a1b)
+![BG_v2](https://github.com/Pr3ventor/Camaleon/assets/52586785/79655ac9-b3c1-444a-9dc7-365279f6e854)
+
 
 
 En el mundo de la ciberseguridad han aparecido con el tiempo ciertos sistemas operativos que se han orientado a una actividad especifica como las auditorias o pentesting en
