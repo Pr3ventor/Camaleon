@@ -114,11 +114,10 @@ El repositorio esta dividido en tres categorías:
 * Onionshare
   
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/90745412-95fe-4b1d-8e9e-0744c0a3cf13)
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/b7a43150-152f-4fcf-ada0-e068ecb21e99)
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/e3112bb5-f4c2-4e1a-89d0-37ae9aa9ad09)
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/391f6df3-4409-4116-aa6b-300d45be8564)
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/2cd15818-55b5-4d74-a80b-01b6bd5684b4)
-
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/f69f31df-b09f-4672-8613-1f99c0763f2f)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/22978856-99ba-4f61-b616-7201c3c39894)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/82489745-8028-4cc4-b2bc-b82f9551db40)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/a44d5a48-9fec-4486-ab19-d52eed8003f2)
 
 # Funcionalidad
 Camaleón cuenta con un script de tipo launcher, que permite acceder a un menú que tiene listadas todas las herramientas por categorías para poder
