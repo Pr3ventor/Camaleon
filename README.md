@@ -197,7 +197,8 @@ Para cualquier duda o sugerencia pueden contactarme por:
 * Instagram: Pr3ventor
 
   
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/f96d4bad-978a-4cde-91a9-f774bd15d9c4)
+![Recurso 629@300x](https://github.com/Pr3ventor/Camaleon/assets/52586785/8aaa2581-a33c-41de-9ea1-675723e3a230)
+
 
   
 
