@@ -113,7 +113,7 @@ El repositorio esta dividido en tres categorías:
 * Cuenta con NordVPN la cual se debe configurar con las credenciales del investigador y a disfrutar de una navegación anónima.
 * Onionshare
   
-![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/99168dd0-244e-475e-8595-effad3233504)
+![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/fea38ac8-e36e-4729-b950-8a6c11619c87)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/cbc8fcb7-b0dc-4900-854b-c5b5b268b0b5)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/5f107ac6-14be-4858-a67d-441355a5db73)
 ![image](https://github.com/Pr3ventor/Camaleon/assets/52586785/9411f083-bcfb-4b67-b89c-1f17fe3e9da9)
