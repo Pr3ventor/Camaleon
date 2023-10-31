@@ -34,6 +34,7 @@ de protección ante un posible escenario de defensa o ataque. De esa forma cumpl
 * ClamAV
 * Rkhunter
 * UFW (Uncomplicated Firewall)
+* La Shell segura no esta a simple vista. Búscala 
 
 **Herramientas incluidas**
 
