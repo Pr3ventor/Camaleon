@@ -178,6 +178,7 @@ La versión 1 de Camaleón esta disponible en sus dos modalidades en:
 * Enlace a repositorio mega: https://mega.nz/folder/mBNTFRia
 * **Decryption key**: pfsMdmfPZIn9NQQreDsNaA
 * **SHA256sum**: 60BFD883FDDE934994B58A8B03B2169C922921056767CF3D1012A0603EA026D3
+* Enlace a repositorio de Drive: https://drive.google.com/drive/folders/1yroHQ8afVgGPwWyUMoZIl0XZJUoG23DR?usp=drive_link
 * **Formato**: Ova (VirtualBox)
 * **Credenciales**: Usuario: **investigador** Contraseña: **osint**
 > [!IMPORTANTE]
